@@ -10,7 +10,7 @@
 // @require      http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.7.2.js
 // @grant        none
 // @compatible   Chrome 测试通过
-// @compatible   //Firefox 测试通过
+// @compatible   Firefox 测试通过
 // @compatible   Chromium 测试通过
 // @compatible
 // 感谢crane-yuan提供的代码 本人在此基础上加以修改得出
